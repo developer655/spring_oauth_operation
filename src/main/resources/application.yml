@@ -1,0 +1,11 @@
+#server:
+#  port: 1210
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: ddd200547ee00ed9caa4
+            client-secret: 611886c0c1b2e91a1b068d2bf991a52b84a6cf85
